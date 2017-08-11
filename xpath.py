@@ -1,8 +1,8 @@
 import requests
 from lxml import html
 
-USERNAME = "jonbae61596@gmail.com"
-PASSWORD = "Reborn!123"
+USERNAME = "*********@gmail.com"
+PASSWORD = "******"
 
 LOGIN_URL = "https://www.yelp.com/login"
 URL = "https://www.yelp.com/user_details?userid=zON8jzT6Zblc3jfh4CNXCw"
